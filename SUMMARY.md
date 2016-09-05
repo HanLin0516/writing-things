@@ -20,6 +20,7 @@
 * [第六讲：告白与提问](chapter06/README.md)
     * [笔记](chapter06/note.md)
     * [作业](chapter06/assignment.md)
+    * [作业](chapter06/assign2.md)
 * [第七讲：你一生的故事](chapter07/README.md)
     * [笔记](chapter07/note.md)
     * [作业](chapter07/assignment.md)
