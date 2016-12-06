@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [自序](chapter00/preface.md)
-    * [0w作业](chapter00/assignment2.md)
+    * [玫瑰与羔羊](chapter00/assignment2.md)
 * [第一讲：写作为什么难](chapter01/README.md)
     * [珠贝谈 · 源](chapter01/note.md)
     * [复织地球公民](chapter01/assignment.md)
